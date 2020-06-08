@@ -1,4 +1,4 @@
-## Welcome to PicFrameEditor
+## Welcome to fanyanli app develop studio
 
 If you have any questions and have difficulty using them, you can contact me..
 
